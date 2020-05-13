@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Nikita Kriučkov
 title: Quality Assurance Specialist
 email: nkriuckov@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Social links
 # twitter_username: facespics
@@ -22,7 +22,7 @@ linkedin_username: nikitakriuckov
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/prf.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
