@@ -1,13 +1,10 @@
-# Experience template
 - layout: left
-  company: Fugro, Scotland
-  link: fugro.com
-  job_title: Freelance Project Engineer
-  dates: December 2019 - August 2019
-  # quote: >
-  # Short description of the company (optional)
-  description: | # this wsill include new lines to allow paragraphs  
-  • Supervision of field crews, ensuring safety and process quality on-site and in the field;
-  • Preparation of the field logs and reports for the client;
-  • Planning and prioritizing tasks, scheduling crew movements;
-  • Ensuring Health and Safety within teams;
+  company: The Boring Company
+  link: boringcompany.com
+  job_title: Senior Network System Administrator
+  dates: November 2017 - Present
+  quote: >
+   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+  • Supervision of field crews, ensuring safety and process quality on-site and in the field:
+  
