@@ -1,10 +1,52 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: <mark>Fugro, Scotland</mark>
+  link: fugro.com
+  job_title: Freelance Project Engineer
+  dates: December 2019 - August 2019
+  description: | # this will include new lines to allow paragraphs 
+    • Supervision of field crews, ensuring safety and process quality on-site and in the field;    
+
+    • Preparation of the field logs and reports for the client; 
+                                          
+    • Planning and prioritizing tasks, scheduling crew movements;
+
+    • Ensuring Health and Safety within teams;
+
+- layout: left 
+  company: <mark>Adform, Vilnius</mark>
+  link: adform.com
+  job_title: Creative Production Quality Assurance Specialist
+  dates: June 2018 - December 2019
   description: | # this will include new lines to allow paragraphs
-  • Supervision of field crews, ensuring safety and process quality on-site and in the field:
-  
+    • Executing a manual test to verify that an advertising unit complies with a pre-defined list of requirements to ensure good user experience;
+
+    • Troubleshooting tag implementation and rendering issues on live publisher's environment, on multiple browsers and devices;
+
+    • Reporting platform issues to relevant Development & IT teams via <mark>Jira</mark> and participate in their resolution;
+
+    • Providing suggestions to Product teams on new features;
+
+
+- layout: left 
+  company: <mark>Geolog International</mark>
+  link: geolog.com
+  job_title: Data Engineer
+  dates: November 2017 - May 2018
+  description: | # this will include new lines to allow paragraphs
+    • Supervision of all incoming and outcoming sensor data from the rig to unit;
+
+    • On-site technical support in case of equipment failure;
+
+    • Creation, interpretation, and submittal of all drilling reports and logs to the client;
+
+- layout: left 
+  company: <mark>Geobaltic</mark>
+  link: geobaltic.lt
+  job_title: Survey Technician
+  dates: August 2011 - June 2017
+  description: | # this will include new lines to allow paragraphs
+    • Survey technician in oil seismic exploration projects, Western Lithuania;
+
+    • GPS surveying;
+
+    • Scanning with Total Ttation Theodolite systems, Trimble TX8 system Laser Scanners;
