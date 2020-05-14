@@ -1,10 +1,13 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this wsill include new lines to allow paragraphs
-    Description of role
+  company: Fugro, Scotland
+  link: fugro.com
+  job_title: Freelance Project Engineer
+  dates: December 2019 - August 2019
+  # quote: >
+  # Short description of the company (optional)
+  description: | # this wsill include new lines to allow paragraphs  
+  • Supervision of field crews, ensuring safety and process quality on-site and in the field;
+  • Preparation of the field logs and reports for the client;
+  • Planning and prioritizing tasks, scheduling crew movements;
+  • Ensuring Health and Safety within teams;
